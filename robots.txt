@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cioyeeneem.kolad.net/sitemap.xml
